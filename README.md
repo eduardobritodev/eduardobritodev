@@ -31,8 +31,8 @@
 
 ## 📊 Estatísticas do GitHub  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&bg_color=000000&title_color=ffcb00&text_color=ffffff&icon_color=ffcb00&border_color=ffcb00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&bg_color=000000&title_color=ffcb00&text_color=ffffff&border_color=ffcb00" />
 </p>
 
 ---
