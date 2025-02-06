@@ -22,8 +22,7 @@
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
-- 🔹 **Front-end:** HTML, CSS  
-- 🔹 **Back-end:** Python  
+- 🔹 **Front-end:** HTML, CSS e JavaScript  
 - 🔹 **Banco de dados:** MongoDB  
 - 🔹 **Containers:** Docker  
 
