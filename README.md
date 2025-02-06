@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Eduardo </h1>
+<h1 align="center">Olá! 👋 Eu sou o Eduardo </h1>
 
 <p align="center">
   🎓 Estudante do Ensino Médio & Apaixonado por Programação  
