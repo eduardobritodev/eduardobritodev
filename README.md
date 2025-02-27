@@ -19,8 +19,6 @@
 ## 🧑‍💻 Sobre mim  
 💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software. Amo criar projetos inovadores e estou sempre buscando aprender mais!  
 
-🤖 Criador do bot <span style="color:#ffcb00; font-weight:bold;">Carry</span>, um assistente para servidores do Discord.  
-
 ---
 
 ## 📊 Estatísticas do GitHub  
@@ -33,7 +31,10 @@
 
 ## 📫 Contato  
 📩 <a href="mailto:eduardobritogomes70@gmail.com" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px;">Email</a>  
-🌎 <a href="https://carrybot.xyz" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px;">Carry Bot</a>  
+🌎 <a href="https://duduubas.dev" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px;">Duduubas.dev</a>  
+<a href="https:///linkedin.com/in/duduubas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  
 💬 **Discord:** Duduubas  
 
 ---
