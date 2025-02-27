@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Eduardo! 👋 </h1>
+<h1 align="center">Olá, eu sou o Eduardo! 👋</h1>
 
 <p align="center">
-  🎓 Estudante do Ensino Médio & Apaixonado por Programação  
+  🎓 Estudante do Ensino Médio | Apaixonado por Programação  
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 ## 🧑‍💻 Sobre mim  
-💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software. Amo criar projetos inovadores e estou sempre buscando aprender mais!  
+💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software. Adoro criar projetos inovadores e explorar novas tecnologias. Estou sempre em busca de desafios que me façam aprender e evoluir!  
 
 ---
 
@@ -30,11 +30,9 @@
 ---
 
 ## 📫 Contato  
-📩 <a href="mailto:eduardobritogomes70@gmail.com" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px; display: inline-block; border: none;">Email</a>  
-🌎 <a href="https://duduubas.dev" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px; display: inline-block; border: none;">Duduubas.dev</a>  
-<a href="https://linkedin.com/in/duduubas" style="text-decoration:none; color:white; background-color:#0077B5; padding:4px 8px; border-radius:5px; display: inline-block; border: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" style="vertical-align: middle; text-decoration: none; border: none;"/> LinkedIn
-</a>  
+📩 **Email:** [eduardobritogomes70@gmail.com](mailto:eduardobritogomes70@gmail.com)  
+🌎 **Portfólio:** [Duduubas.dev](https://duduubas.dev)  
+🔗 **LinkedIn:** [Duduubas](https://linkedin.com/in/duduubas)  
 💬 **Discord:** Duduubas  
 
 ---
