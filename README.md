@@ -30,11 +30,10 @@
 ---
 
 ## 📫 Contato  
-📩 <a href="mailto:eduardobritogomes70@gmail.com" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px;">Email</a>  
-🌎 <a href="https://duduubas.dev" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px;">Duduubas.dev</a>  
-<a href="https://linkedin.com/in/duduubas" style="text-decoration:none; color:white; background-color:#0077B5; padding:4px 8px; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" style="vertical-align: middle; text-decoration:none;"/>LinkedIn
-</a>  
+📩 <a href="mailto:eduardobritogomes70@gmail.com" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px; display: inline-block;">Email</a>  
+🌎 <a href="https://duduubas.dev" style="text-decoration:none; color:white; background-color:#ffcb00; padding:4px 8px; border-radius:5px; display: inline-block;">Duduubas.dev</a>  
+<a href="https://linkedin.com/in/duduubas" style="text-decoration:none; color:white; background-color:#0077B5; padding:4px 8px; border-radius:5px; display: inline-block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" style="vertical-align: middle;"/> LinkedIn</a>  
 💬 **Discord:** Duduubas  
 
 ---
