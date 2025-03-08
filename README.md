@@ -31,7 +31,7 @@
 
 ## 📫 Contato  
 📩 **Email:** [eduardobritogomes70@gmail.com](mailto:eduardobritogomes70@gmail.com)  
-🌎 **Portfólio:** [eduardobrito.dev](https://duduubas.dev)  
+🌎 **Portfólio:** [eduardobrito.dev](https://eduardobrito.dev)  
 🔗 **LinkedIn:** [Duduubas](https://linkedin.com/in/duduubas)  
 💬 **Discord:** Duduubas  
 
