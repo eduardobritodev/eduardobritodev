@@ -52,10 +52,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&bg_color=000000&title_color=007BFF&text_color=ffffff&border_color=007BFF" />
 </p>
 
----
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="600px" alt="Gatinho digitando">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="500px" alt="Gatinho digitando">
 </p>
 
 🎯 _"A tecnologia move o mundo!"_ 🚀  
