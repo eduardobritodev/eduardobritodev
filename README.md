@@ -4,20 +4,41 @@
   🎓 Estudante do Ensino Médio | Apaixonado por Programação  
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim  
-💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software. Adoro criar projetos inovadores e explorar novas tecnologias. Estou sempre em busca de desafios que me façam aprender e evoluir!  
+💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software.  
+🚀 Sempre explorando novas tecnologias e criando projetos inovadores.  
+🎯 Busco desafios que me ajudem a aprender e crescer profissionalmente.  
+
+---
+
+## 🚀 Tecnologias que utilizo  
+<div style="display: flex; justify-content: center;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📫 Contato  
+
+<div>
+  <a href="mailto:eduardobritogomes70@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/duduubas" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/Duduubas" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -29,11 +50,13 @@
 
 ---
 
-## 📫 Contato  
-📩 **Email:** [eduardobritogomes70@gmail.com](mailto:eduardobritogomes70@gmail.com)  
-🌎 **Portfólio:** [eduardobrito.dev](https://eduardobrito.dev)  
-🔗 **LinkedIn:** [Duduubas](https://linkedin.com/in/duduubas)  
-💬 **Discord:** Duduubas  
+<div align="center">
+  <div class="tenor-gif-embed" data-postid="17390943" data-share-method="host" data-aspect-ratio="1" data-width="50%">
+    <a href="https://tenor.com/view/kitty-online-computer-typing-cat-gif-17390943">Kitty Online GIF</a>  
+    from <a href="https://tenor.com/search/kitty-gifs">Kitty GIFs</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 ---
 
