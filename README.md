@@ -1,17 +1,12 @@
 <h1 align="center">Olá, eu sou o Eduardo! 👋</h1>
-
 <p align="center">
   🎓 Estudante do Ensino Médio | Apaixonado por Programação  
 </p>
-
----
 
 ## 🧑‍💻 Sobre mim  
 💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software.  
 🚀 Sempre explorando novas tecnologias e criando projetos inovadores.  
 🎯 Busco desafios que me ajudem a aprender e crescer profissionalmente.  
-
----
 
 ## 🚀 Tecnologias que utilizo  
 <div style="display: flex; justify-content: center;">
@@ -28,10 +23,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40"/>
 </div>
 
----
-
 ## 📫 Contato  
-
 <div>
   <a href="mailto:eduardobritogomes70@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -43,8 +35,6 @@
     <img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
----
 
 ## 📊 Estatísticas do GitHub  
 <p align="center">
@@ -58,4 +48,4 @@
 </p>
 <br>
 <br>
-🎯 _"A tecnologia move o mundo!"_ 🚀  
+🎯 *"A tecnologia move o mundo!"* 🚀
