@@ -2,12 +2,14 @@
 <p align="center">
   🎓 Estudante do Ensino Médio | Apaixonado por Programação  
 </p>
-
+<br>
+<br>
 ## 🧑‍💻 Sobre mim  
 💡 Sou um estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software.  
 🚀 Sempre explorando novas tecnologias e criando projetos inovadores.  
 🎯 Busco desafios que me ajudem a aprender e crescer profissionalmente.  
-
+<br>
+<br>
 ### 🚀 Tecnologias que utilizo  
 <div style="display: flex; justify-content: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -22,7 +24,8 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div>
-
+<br>
+<br>
 ### 📩 Contatos:
 <div align="center"> 
   <a href="mailto:eduardobritogomes70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
