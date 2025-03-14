@@ -8,7 +8,7 @@
 🚀 Sempre explorando novas tecnologias e criando projetos inovadores.  
 🎯 Busco desafios que me ajudem a aprender e crescer profissionalmente.  
 
-## 🚀 Tecnologias que utilizo  
+### 🚀 Tecnologias que utilizo  
 <div style="display: flex; justify-content: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -23,15 +23,14 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div>
 
-##
-### Contatos:
+### 📩 Contatos:
 <div align="center"> 
   <a href="mailto:eduardobritogomes70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/duduubas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/Duduubas" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-## 📊 Estatísticas do GitHub  
+### 📊 Estatísticas do GitHub  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&bg_color=000000&title_color=007BFF&text_color=ffffff&icon_color=007BFF&border_color=007BFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&bg_color=000000&title_color=007BFF&text_color=ffffff&border_color=007BFF" />
