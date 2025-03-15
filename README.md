@@ -41,6 +41,3 @@
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="500px" alt="Gatinho digitando">
 </p>
-<br>
-<br>
-🎯 *"A tecnologia move o mundo!"* 🚀
