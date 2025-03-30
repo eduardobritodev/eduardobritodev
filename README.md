@@ -15,14 +15,15 @@
 
 ## 🚀 Tecnologias que utilizo  
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,docker,mongo" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,git,github" />
-</p>
+</div>
 
 ---
 
 ## 📩 Contatos  
+
 <div align="center"> 
   <a href="mailto:contato@eduardobrito.dev" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/duduubas" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/></a> 
@@ -33,13 +34,8 @@
 
 ## 📊 Estatísticas  
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&bg_color=000000&title_color=007BFF&text_color=ffffff&icon_color=007BFF&border_color=007BFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&bg_color=000000&title_color=007BFF&text_color=ffffff&border_color=007BFF" />
-</p>
+</div>
 
----
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="500px" alt="Gatinho digitando">
-</p>
