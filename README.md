@@ -16,8 +16,8 @@
 ## 🚀 Tecnologias que utilizo  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,docker,mongo" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,git,github,codepen,cloudflare	" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,docker,mongo"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,git,github,codepen,cloudflare"/>
 </div>
 
 ---
