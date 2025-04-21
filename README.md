@@ -2,7 +2,7 @@
 
 ## 💫 Sobre Mim
 
-- 📚 Estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento de software
+- 📚 Estudante do Ensino Médio apaixonado por tecnologia e desenvolvimento web
 - 🚀 Constantemente explorando novas tecnologias e criando projetos inovadores
 - 🔍 Em busca de desafios que me ajudem a crescer como desenvolvedor
 - 💻 Compartilho no GitHub meus projetos e experimentos com novas tecnologias
