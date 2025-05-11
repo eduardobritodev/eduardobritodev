@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ Não se esqueça de seguir para acompanhar meus projetos e dar uma estrela nos que você gostar!
+[![Discord Presence](https://lanyard.cnrad.dev/api/522531030834610211?showDisplayName=true&hideClan=true)](https://discord.com/users/522531030834610211)
