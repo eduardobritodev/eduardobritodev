@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou o Eduardo! 👋</h1>
+# Olá, eu sou o Eduardo! 👋</h1>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Duduubas)
 
 ## 💫 Sobre Mim
 
@@ -6,20 +9,6 @@
 - 🚀 Constantemente explorando novas tecnologias e criando projetos inovadores
 - 🔍 Em busca de desafios que me ajudem a crescer como desenvolvedor
 - 💻 Compartilho no GitHub meus projetos e experimentos com novas tecnologias
-
-
-## 📱 Contatos
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Duduubas)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -53,4 +42,20 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/522531030834610211?showDisplayName=true&hideClan=true)](https://discord.com/users/522531030834610211)
+## 📊 GitHub Stats
+
+</div>
+<!-- Estatísticas do GitHub lado a lado -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<!-- Discord Presence centralizado abaixo -->
+<div align="center">
+  <br>
+  <a href="https://discord.com/users/522531030834610211">
+    <img src="https://lanyard.cnrad.dev/api/522531030834610211?showDisplayName=true&hideClan=true" alt="Discord Presence"/>
+  </a>
+</div>
+
