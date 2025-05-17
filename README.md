@@ -1,6 +1,4 @@
-# Olá, eu sou o Eduardo! 👋
-
-## 👨🏻‍💻 Desenvolvedor Web | Estudante do Ensino Médio
+## 👨🏻‍💻 Desenvolvedor Front-End | Estudante do Ensino Médio
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
