@@ -13,16 +13,6 @@
 - 🚀 Desenvolvimento de soluções eficientes e escaláveis
 - 🌱 Atualmente focado em aprofundar conhecimentos em React, Next.js e arquitetura de componentes
 - 📈 Sempre buscando aprimorar minhas habilidades técnicas através de projetos práticos
-<div align="center">
-  <!-- Stats lado a lado -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <!-- Discord Presence -->
-  <a href="https://discord.com/users/522531030834610211">
-    <img src="https://lanyard.cnrad.dev/api/522531030834610211?showDisplayName=true&hideClan=true" alt="Discord Presence"/>
-  </a>
-</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -58,3 +48,14 @@
 
 - [Mapa Crato](https://mapa-crato.eduardobrito.dev/)
 - [QR Code Generator](https://qrcodegenerator.eduardobrito.dev/)
+
+  <div align="center">
+  <!-- Stats lado a lado -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduubas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduubas&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <!-- Discord Presence -->
+  <a href="https://discord.com/users/522531030834610211">
+    <img src="https://lanyard.cnrad.dev/api/522531030834610211?showDisplayName=true&hideClan=true" alt="Discord Presence"/>
+  </a>
+</div>
