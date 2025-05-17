@@ -7,9 +7,9 @@
 
 ## 💫 Sobre Mim
 
-- 📚 Desenvolvedor Web com foco em tecnologias front-end modernas e experiência do usuário
+- 📚 Desenvolvedor Front-End com foco em tecnologias front-end modernas e experiência do usuário
 - 🚀 Desenvolvimento de soluções eficientes e escaláveis
-- 🌱 Atualmente focado em aprofundar conhecimentos em React, Next.js e arquitetura de componentes
+- 🌱 Atualmente focado em aprofundar conhecimentos em ReactJs, Next.js e arquitetura de componentes
 - 📈 Sempre buscando aprimorar minhas habilidades técnicas através de projetos práticos
 
 ## 🛠️ Tecnologias & Ferramentas
