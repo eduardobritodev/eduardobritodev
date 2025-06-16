@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Desenvolvedor Front-End | Estudante do Ensino Médio
+## 👨🏻‍💻 Eduardo Brito | Desenvolvedor Front-End
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
@@ -9,40 +9,26 @@
 
 - 📚 Desenvolvedor Front-End com foco em tecnologias front-end modernas e experiência do usuário
 - 🚀 Desenvolvimento de soluções eficientes e escaláveis
-- 🌱 Atualmente focado em aprofundar conhecimentos em VueJs e Tailwind.
+- 🌱 Atualmente focado em aprofundar conhecimentos em VueJs e NuxtJs.
 - 📈 Sempre buscando aprimorar minhas habilidades técnicas através de projetos práticos
 
 ## 🛠️ Tecnologias & Ferramentas
 
 > Front-end
-> 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs,tailwind)](https://skillicons.dev)
 
 > Banco de Dados
 > 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 > DevOps & Ferramentas
-> 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,cloudflare,codepen)](https://skillicons.dev)
 
 > Ferramentas/tecnologias que estou me aprimorando
-> 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+>
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind)](https://skillicons.dev)
 
 ## 🚀 Principais projetos
 
