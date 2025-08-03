@@ -1,5 +1,6 @@
-## 👨🏻‍💻 Eduardo Brito | Desenvolvedor Front-End
+## 👨🏻‍💻 Eduardo Brito | Desenvolvedor Front-End Freelancer
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardobrito.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Duduubas)
