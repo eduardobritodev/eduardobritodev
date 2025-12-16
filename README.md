@@ -8,16 +8,15 @@
 
 ## 💫 Sobre Mim
 
-- 📚 Desenvolvedor Front-End com foco em tecnologias front-end modernas e experiência do usuário
-- 🚀 Desenvolvimento de soluções eficientes e escaláveis
-- 🌱 Atualmente focado em aprofundar conhecimentos em VueJs e NuxtJs.
+- 📚 Desenvolvedor Front-end com foco em tecnologias modernas e experiência do usuário
+- 🌱 Atualmente focado em aprofundar conhecimentos em NuxtJs e CRUD.
 - 📈 Sempre buscando aprimorar minhas habilidades técnicas através de projetos práticos
 
 ## 🛠️ Tecnologias & Ferramentas
 
 > Front-end
 >
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs)](https://skillicons.dev)
 
 > Banco de Dados
 > 
