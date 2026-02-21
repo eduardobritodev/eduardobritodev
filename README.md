@@ -1,22 +1,22 @@
-## 👨🏻‍💻 Eduardo Brito | Desenvolvedor Front-End Freelancer
+## 👨🏻‍💻 Eduardo Brito | Desenvolvedor Front-end
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardobrito.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eduardobrito.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduubas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardobritoo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Duduubas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardobrito.dev)
 
 ## 💫 Sobre Mim
 
 - 📚 Desenvolvedor Front-end com foco em tecnologias modernas e experiência do usuário
-- 🌱 Atualmente focado em aprofundar conhecimentos em NuxtJs e CRUD.
+- 🌱 Atualmente focado em aprofundar conhecimentos em NuxtJs e CRUD com APIs.
 - 📈 Sempre buscando aprimorar minhas habilidades técnicas através de projetos práticos
 
 ## 🛠️ Tecnologias & Ferramentas
 
 > Front-end
 >
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs,liquid)](https://skillicons.dev)
 
 > Banco de Dados
 > 
@@ -24,11 +24,8 @@
 
 > DevOps & Ferramentas
 >
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,cloudflare,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,cloudflare,codepen,zed,cursor)](https://skillicons.dev)
 
-> Ferramentas/tecnologias que estou me aprimorando
->
-[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind)](https://skillicons.dev)
 
 ## 🚀 Principais projetos
 
@@ -37,8 +34,8 @@
 
   <div align="center">
   <!-- Stats lado a lado -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobritodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobritodev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobritodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobritodev&layout=compact&langs_count=7&theme=tokyonight"/> -->
   
   <!-- Discord Presence -->
   <a href="https://discord.com/users/522531030834610211">
