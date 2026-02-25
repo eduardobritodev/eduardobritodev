@@ -27,11 +27,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,cloudflare,codepen,zed,cursor)](https://skillicons.dev)
 
 
-## 🚀 Principais projetos
-
-- [Mapa Crato](https://mapa-crato.eduardobrito.dev/)
-- [QR Code Generator](https://qrcodegenerator.eduardobrito.dev/)
-
   <div align="center">
   <!-- Stats lado a lado -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobritodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
